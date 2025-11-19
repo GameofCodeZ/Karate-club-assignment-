@@ -36,11 +36,12 @@
 
 ## 📂 Files in Repository
 
-* **`karate_club_assignment.ipynb`**: The main Jupyter Notebook containing all Python code, step-by-step visualizations, and the final analysis.
+* **`DSC212_karate_club_assignment.ipynb`**: The main Jupyter Notebook containing all Python code, step-by-step visualizations, and the final analysis.
 * **`README.md`**: This file.
 
 ## 📚 Citation
 
 [cite_start]The method implemented is based on the following paper, as required by the assignment: [cite: 150]
+
 
 > Newman, M. E. J. (2006). Modularity and community structure in networks. *PNAS*, 103(23), 8577-8582.
